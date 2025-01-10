@@ -53,27 +53,12 @@ The datasets used in this project include:
 
 ---
 
-## Visualizations  
-
 ### Team Win Rates  
 
 ![image](https://github.com/user-attachments/assets/9e0ddb50-bc87-4c14-9ff8-71fc88a9e60c)
 
 ---
 
-### Toss Impact on Match Results  
-<p align="center">
-  <img src="./assets/toss-impact.png" alt="Toss Impact" width="700">
-</p>
-
----
-
-### Top Performers (Runs and Wickets)  
-<p align="center">
-  <img src="./assets/top-performers.png" alt="Top Performers" width="700">
-</p>
-
----
 
 ## Tools and Technologies  
 
