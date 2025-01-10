@@ -1,4 +1,5 @@
 # 🏏 IPL Prediction Model
+![image](https://github.com/user-attachments/assets/e5f0bd41-bf40-4362-a9ed-5bc6447bf325)
 
 ---
 
@@ -55,9 +56,8 @@ The datasets used in this project include:
 ## Visualizations  
 
 ### Team Win Rates  
-<p align="center">
-  <img src="./assets/team-win-rates.png" alt="Team Win Rates" width="700">
-</p>
+
+![image](https://github.com/user-attachments/assets/9e0ddb50-bc87-4c14-9ff8-71fc88a9e60c)
 
 ---
 
